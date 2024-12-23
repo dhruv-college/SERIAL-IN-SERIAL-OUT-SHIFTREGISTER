@@ -63,4 +63,4 @@ endmodule
 
 **RESULTS**
 
-Thus the implementation SISO shift register and validating their functionality using their functional tables in quartus II in verilog programming
+Thus the implementation SISO shift register and validating their functionality using their functional tables in quartus II in verilog programming.
